@@ -28,4 +28,5 @@ E receba como resultado:
 ## 🧮 Fórmula Utilizada
 
 A fórmula para cálculo do consumo mensal é:
+consumoMensal = (potencia * horasDia * 30) / 1000
 
